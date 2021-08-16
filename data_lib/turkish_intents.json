@@ -1,0 +1,103 @@
+{
+  "intents": [
+    {
+      "tag": "selamlama",
+      "patterns": [
+        "Selam",
+        "Naber",
+        "Orada biri var mı?",
+        "Slm",
+        "Nbr",
+        "Nasılsın?",
+        "Nasıl gidiyor",
+        "İyi günler",
+        "İyi misin",
+        "Görüşmeyeli nasılsın?",
+        "Görüşmeyeli nasıl gidiyor?"
+
+      ],
+      "responses": [
+        "Selam!",
+        "Selam, sana nasıl yardımcı olabilirim?",
+        "Selam, hoşgeldin!",
+        "Merhaba!",
+        "Merhaba, sana nasıl yardımcı olabilirim?",
+        "Merhaba, ne istemiştin?",
+        "Selam, ne istemiştin?"
+      ]
+    },
+    {
+      "tag": "vedalaşma",
+      "patterns": [
+        "Bay",
+        "Bye",
+        "Görüşürüz",
+        "Sonra görüşürüz",
+        "Hadi bye",
+        "Hadi bay",
+        "Bye bye",
+        "Bye bye",
+        "Görüşmek üzere",
+        "Kendine iyi bak"],
+      "responses": [
+        "Sonra görüşürüz!",
+        "Beni yalnız bırakma!",
+        "Kendine iyi bak.",
+        "İyi günler",
+        "Bye!",
+        "Tekrar uğramayı unutma!",
+        "Tekrar gelmeni bekliyor olacağım!"
+      ]
+    },
+    {
+      "tag": "teşekkür",
+      "patterns": [
+        "Teşekkürler!",
+        "Sağ olasın",
+        "Sağ ol",
+        "Sağ ol, var ol",
+        "Çok teşekkürler",
+        "Teşekkür",
+        "Çok sağ ol",
+        "Çok yardımcı oldun."],
+      "responses": [
+        "Yardımcı olabildiğim için sevindim!",
+        "Yardımcı olabildiğim için mutlu oldum",
+        "Yardımcı olabildiysem ne mutlu bana",
+        "Yardımcı olabildiysem ne mutlu",
+        "Zevkle!",
+        "Lafı mı olur!",
+        "Rica ederim.",
+        "Önemli değil!",
+        "Her zaman!",
+        "Ben teşekkür ederim!"]
+    },
+    {
+      "tag": "şaka",
+      "patterns": [
+        "Bana bir şaka anlat!",
+        "Komik bir şeyler söyle?",
+        "Sen şaka yapmayı bilir misin?",
+        "Bana bir şaka söyle",
+        "Şaka yap",
+        "Şaka yapsana",
+        "Soğuk şaka patlat",
+        "Soğuk şaka yapar mısın",
+        "Espri yapsana"
+      ],
+      "responses": [
+          "-Tuvaletteki 10’a ne denir? \n+Sifon",
+        "-En güzel yemek yapan Ceren hangisidir? \n+Tenceren",
+        "-İshal olmuş böceğe ne denir? \n+Cırcır Böceği",
+        "-Türkiye’nin en yeni şehri hangisidir? \n+Nevşehir",
+        "-Yıkanan ton balığına ne denir? \n+Washington",
+        "-Baykuşlar vedalaşırken ne der? \n+Bay Bay Baykuş",
+        "-Yemeğin suyuna kim bandı? \n+Koli Bandı",
+        "-Siviller hangi dili konuşur? \n+Sivilce",
+        "-Hiç bozuk paran var mı? \n+Yok. Çünkü hepsini tamir ettirdim.",
+        "-Aya ilk bayrağı kim dikmiştir? \n+Terzi",
+        "-İneklerin sevmediği element? \n+Azot"
+      ]
+    }
+  ]
+}
