@@ -2,7 +2,7 @@
 
 In this repository, I implemented contextual chatbot with Pytorch in based on Turkish intents.
 
-<p align="center"><img src="assets/app.gif" width="150"></p>
+<p align="center"><img src="assets/app.gif" width="250"></p>
 
 I stored intents in a JSON file like this:
 
